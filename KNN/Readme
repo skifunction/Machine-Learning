@@ -1,4 +1,4 @@
-This is an example of K-Nearest Neighbors<br>
-This folder consist of a .csv file plus its detail in the .names file<br>
-KNN.py is simple use of K-Nearest Neighbor<br>
-knnalgo.py consist of acutal algorithm<br>
+This is an example of K-Nearest Neighbors
+This folder consist of a .csv file plus its detail in the .names file
+KNN.py is simple use of K-Nearest Neighbor
+knnalgo.py consist of acutal algorithm
