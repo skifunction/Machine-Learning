@@ -1,0 +1,2 @@
+This is an example of how you can forecast future value of price by observing patterns
+Here we used Linear regression and saved it in a pickle file for faster access
