@@ -1,0 +1,5 @@
+Create Two Folders 
+1. KNOW_FACES_DIR 
+2. UNKNOW_FACES_DIR
+Create another folder inside KNOW_FACES_DIR with your name/object name and add pic of only you/the object in it.
+You can play around with TOLERANCE for proper recognition.
